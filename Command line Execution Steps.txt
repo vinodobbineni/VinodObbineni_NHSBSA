@@ -1,0 +1,17 @@
+			Command Line Execution
+
+Step 1
+
+Install meven in your PC.
+
+Step 2
+
+Open Command Prompt in PC 
+
+Go to the project folder
+
+Step 3
+
+Type command mvn test
+
+will execute the tests in the submitted project.
