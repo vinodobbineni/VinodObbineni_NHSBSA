@@ -15,3 +15,7 @@ Step 3
 Type command mvn test
 
 will execute the tests in the submitted project.
+
+
+Note: Change browser in the Base Class Chrome/ FireFox one after one to execute the tests in both the browsers.
+
